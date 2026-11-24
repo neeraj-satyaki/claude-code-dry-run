@@ -1,0 +1,9 @@
+{
+  "name": "dry-run",
+  "version": "1.0.0",
+  "description": "Universal step debugger for Claude Code: dry-run code in any language line by line, with call stack, variable state, branches and the first step where it goes wrong.",
+  "author": { "name": "neeraj-satyaki" },
+  "repository": "https://github.com/neeraj-satyaki/claude-code-dry-run",
+  "license": "MIT",
+  "keywords": ["debugger", "dry-run", "trace", "debugging", "skill", "claude-code"]
+}

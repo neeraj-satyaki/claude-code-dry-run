@@ -1,0 +1,11 @@
+{
+  "name": "dry-run",
+  "owner": { "name": "neeraj-satyaki" },
+  "plugins": [
+    {
+      "name": "dry-run",
+      "source": "./",
+      "description": "Universal step debugger: dry-run code in any language line by line."
+    }
+  ]
+}
